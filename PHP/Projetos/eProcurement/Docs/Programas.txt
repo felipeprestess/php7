@@ -1,0 +1,99 @@
+﻿ PRO_DESCRICAO_CURTA            PRO_DESCRICAO                                      PRO_COD_PTV    
+ ----------------------         ----------------------------------------           -------------- 
+ Capa pedido                    Programa capa pedido                               PTV0001        
+ Painel pedido                  Programa painel pedido                             PTV0002        
+ Dashboard x Usuario            Dashboard x Usuario                                PTV0003        
+ Menu Catálogo                  Cadastro de Catálogo                               PTV0004        
+ Cadastro Catálogo              Programa cadastro catálogo                         PTV0005        
+ Catálogo                       Programa Catálogo                                  PTV0006        
+ FAQ                            ProgramaFAQ                                        PTV0007        
+ Home                           Cadastro de Home                                   PTV0008        
+ Pedido                         Cadastro de Pedido                                 PTV0009        
+ Operacoes                      Cadastro de Operacoes                              PTV0010        
+ Cliente                        Cadastro de Cliente                                PTV0011        
+ Tipo Frete                     Cadastro de tipo de frete                          PTV0012        
+ Lista Preco                    Cadastro de Lista de preco                         PTV0013        
+ Condicao Pagamento             Cadastro de condicao de pagamento                  PTV0014        
+ Tipo Cliente                   Cadastro tipo de pessoa                            PTV0015        
+ Tipo Documento                 Cadastro tipo documento                            PTV0016        
+ Administracao                  Programa principal modulo administrativo           PTV0017        
+ Perfil                         Cadastro de Perfil                                 PTV0018        
+ Perfil x Programa              Cadastro de programa por perfil                    PTV0019        
+ Perfil x Usuario               Cadastro de usuario por perfil                     PTV0020        
+ Usuario                        Cadastro de usuarios do sistema                    PTV0021        
+ Tipo Endereco                  Cadastro de tipo endereco                          PTV0022        
+ Parametros                     Cadastro de Padroes                                PTV0023        
+ Aprovacao de Pedidos           Aprovacoes dos pedidos                             PTV0024        
+ Reducao de Estoque             Programa  para reducao de estoque                  PTV0025        
+ Aprovacao de Cliente           Programa para aprovacao de cliente                 PTV0026        
+ Rotinas                        Programa para rotinas                              PTV0027        
+ Estoque                        Estoque cliente                                    PTV0028        
+ Motivo Agenda                  Cadastro de Motivos Agenda                         PTV0029        
+ Status Agenda                  Status Agenda                                      PTV0030        
+ CockPit                        Programa CockPit                                   PTV0031        
+ Pre Aprov. Fiscal              Programa para Pre Aprov. Fiscal                    PTV0032        
+ Item Promocao                  Programa de Item Promocao                          PTV0033        
+ Range Comissao                 Programa Range Comissao                            PTV0034        
+ Linha Trabalho                 Programa Linha trabalho                            PTV0035        
+ Scheduler                      Programa scheduler                                 PTV0036        
+ Turnover                       Programa turnover                                  PTV0037        
+ Cliente Regiao                 Programa de cliente regiao                         PTV0038        
+ Pos Venda                      Programa pos venda                                 PTV0039        
+ Curva ABC                      Programa para Curva ABC                            PTV0040        
+ Tipo Atividade                 Tipo Atividade Agenda                              PTV0041        
+ Agenda                         Programa para cadastro de agenda                   PTV0042        
+ Envio de amotras               Programa de envio de amostra                       PTV0043        
+ Aniversariantes                ProgramaAniversariantes                            PTV0044        
+ Perfil x Cond. Pagto           Programa Perfil x condicao pagamento               PTV0045 
+ Tipo Portador                  Tipo Portador                                      PTV0046 
+ Contato                        Cadastro de Contato do cliente                     PTV0047
+ Documento                      Cadastro de Documento do cliente                   PTV0048
+ Endereco                       Cadastro de Endereco do cliente                    PTV0049
+ Comentario                     Cadastro de Comentario do cliente                  PTV0050
+ E-mail NFE                     Cadastro de E-mail NFEdo cliente                   PTV0051
+ Historico Fat.                 Cadastro de Hist. Fat. do cliente                  PTV0052
+ Posicao Credito                Cadastro de Posicao Credito do cliente             PTV0053
+ Historico Credito	 	Cadastro de Historico Credito do cliente           PTV0054
+ Cond Ptgo Cliente	 	Cadastro de Cond Ptgo Cliente do cliente           PTV0055
+ Canal Venda Cliente            Cadastro de Canal Venda Cliente do cliente         PTV0056
+ Socio                          Cadastro de Socio Cliente                          PTV0057
+ Capa Ped. Padrao	 	Cadastro de Capa Ped. Padrao Cliente               PTV0058
+ Atualizacoes Cliente           Atualizacoes Cliente                               PTV0059
+ Manifesto de Carga	 	Manifesto de Carga                                 PTV0060
+ Origem Interacao	 	Origem Interacao                                   PTV0061
+
+ Tipo Venda                     Tipo Venda	                                   PTV0062
+ Tipo Tecido                    Tipo Tecido	                                   PTV0063
+ Tipo Embalagem			Tipo Embalagem					   PTV0064
+ Rota                           Rota                                               PTV0065
+ Reclamacao                     Reclamacao                                         PTV0066
+ Range Comissao                 Range Comissao                                     PTV0067
+ Sac                            Sac						   PTV0068
+ Parametro Usuario              Parametro Usuario                                  PTV0069
+ Pre Aprovacao OM		Pre Aprovacao Om                                   PTV0070
+ Lista Preco Usuario            Lista Preco Usuario                                PTV0071
+ Lancamento                     Lancamento                                         PTV0072
+ Condicao Pgto Usuario          Condicao Pgto Usuario				   PTV0073
+ Operacao desconto SC           Operacao desconto SC				   PTV0074
+ Natureza Oper. Usuario         Natureza Oper. Usuario                             PTV0075
+ Colecao                        Colecao                                            PTV0076
+ Catalogo                       Catalogo             				   PTV0077
+ Transportadora Usuario         Transportadora Usuario                             PTV0078
+ Operacao Empresa               Operacao Empresa                                   PTV0079
+ Motivo Perca Pedido            Motivo Perca Pedido                                PTV0080
+ Estoque Dimensional            Estoque Dimensional                                PTV0081
+ Necessidades (Est. Dimen.)     Necessidades (Est. Dimen.)                         PTV0082
+ Em Terceiro (Est. Dimen.)      Em Terceiro (Est. Dimen.)                          PTV0083
+ Lotes (Est. Dimen.)            Lotes (Est. Dimen.)                                PTV0084
+ Transito (Est. Dimen.)         Transito (Est. Dimen.)                             PTV0085
+ Pedidos (Est. Dimen.)          Pedidos (Est. Dimen.)                              PTV0086
+ Fat. Entr. Fut. (Est. Dimen.)  Fat. Entr. Fut. (Est. Dimen.)                      PTV0087
+ Custos (Est. Dimen.)           Custos (Est. Dimen.)                               PTV0088
+ Marcacao Pedido                Marcacao Pedido                                    PTV0089
+ Imprime Lote                   Imprime Lote                                       PTV0100
+ Dist. Geografica               Dist. Geografica                                   PTV0101
+ Transfere Prospect             Transfere Prospect                                 PTV0102
+ Faturamento Diario             Faturamento Diario                                 PTV0103
+
+
+

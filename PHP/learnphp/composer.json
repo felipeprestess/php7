@@ -1,0 +1,9 @@
+{
+    "name": "felipeprestes/projetolearnphp",
+    "description": "Projeto de aprendizagem de PHP",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap":"4.1.0"
+    }
+}
